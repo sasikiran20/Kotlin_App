@@ -8,7 +8,7 @@ Learning Management System - Android App
 This project is about the development of an application which can help students or employers who wants to get certified in Google's Associate Certified Engineer (ACE). They can take practice tests on this certification exam, which helps them to get practiced thoroughly with their preparation.
 
 
-This is the project created for Smart Internz Virtual Internship Program
+
 ## **Mobile interfaces view** 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/89773843/192142047-80684c03-0de8-4b74-a515-0d0ead434a57.png" width="310">
